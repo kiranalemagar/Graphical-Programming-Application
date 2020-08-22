@@ -1,0 +1,10 @@
+D:\Desktop\Graphical XML\FinalAssignment.xml
+D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.Form1.resources
+D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.csproj.GenerateResource.cache
+D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.csproj.CoreCompileInputs.cache
+D:\Desktop\Graphical XML\KiranAle_CompI.exe.config
+D:\Desktop\Graphical XML\KiranAle_CompI.exe
+D:\Desktop\Graphical XML\KiranAle_CompI.pdb
+D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.Properties.Resources.resources
+D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.exe
+D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.pdb
