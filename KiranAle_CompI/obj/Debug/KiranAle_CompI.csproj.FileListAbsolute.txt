@@ -8,3 +8,13 @@ D:\Desktop\Graphical XML\KiranAle_CompI.pdb
 D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.Properties.Resources.resources
 D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.exe
 D:\ASE\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.pdb
+C:\Users\Dell\Desktop\Graphical XML\KiranAle_CompI.exe.config
+C:\Users\Dell\Desktop\Graphical XML\KiranAle_CompI.exe
+C:\Users\Dell\Desktop\Graphical XML\KiranAle_CompI.pdb
+C:\Users\Dell\Desktop\Graphical XML\FinalAssignment.xml
+C:\Users\Dell\source\repos\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.Form1.resources
+C:\Users\Dell\source\repos\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.Properties.Resources.resources
+C:\Users\Dell\source\repos\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.exe
+C:\Users\Dell\source\repos\KiranAle77189999_ASEI\KiranAle_CompI\obj\Debug\KiranAle_CompI.pdb

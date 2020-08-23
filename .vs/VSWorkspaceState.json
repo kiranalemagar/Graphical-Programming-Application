@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KiranAle_CompI",
+    "\\packages",
+    "\\UnitTest",
+    "\\UnitTest\\obj",
+    "\\UnitTest\\obj\\Debug",
+    "\\UnitTest\\obj\\Debug\\TempPE",
+    "\\UnitTest\\Properties"
   ],
+  "SelectedNode": "\\KiranAle_CompI\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

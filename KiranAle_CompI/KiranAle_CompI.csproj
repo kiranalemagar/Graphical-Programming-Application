@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E176159F-375E-4CE5-A677-06B19754314E}</ProjectGuid>
+    <ProjectGuid>{ACBC145A-11D8-497E-9964-9DEAFE6BE403}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KiranAle_CompI</RootNamespace>
     <AssemblyName>KiranAle_CompI</AssemblyName>
